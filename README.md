@@ -16,40 +16,40 @@ See supplied example code.
 Example Results:
 
 Wordfind:
-`CHGGCYETWP`
-`NYFZBDINDK`
-`IULEITMEOI`
-`SNXIDUADDA`
-`SDLYRZLLGJ`
-`AABXOXLOEQ`
-`NIMOFLOHQO`
-`JLWOMQRQAU`
-`MAZDAEOAOT`
-`QPNTSRCIWK`
+    CHGGCYETWP
+    NYFZBDINDK
+    IULEITMEOI
+    SNXIDUADDA
+    SDLYRZLLGJ
+    AABXOXLOEQ
+    NIMOFLOHQO
+    JLWOMQRQAU
+    MAZDAEOAOT
+    QPNTSRCIWK
 
 Solution:
-`.H........`
-`NY.....NDK`
-`IU.....EOI`
-`SN.IDUADDA`
-`SD..R.LLG.`
-`AAB.O.LOE.`
-`NIM.F.OH..`
-`..W...R...`
-`MAZDA.O...`
-`......C...`
+    .H........
+    NY.....NDK
+    IU.....EOI
+    SN.IDUADDA
+    SD..R.LLG.
+    AAB.O.LOE.
+    NIM.F.OH..
+    ..W...R...
+    MAZDA.O...
+    ......C...
 
 Words in Wordfind:
-AUDI
-BMW
-COROLLA
-DODGE
-FORD
-HOLDEN
-HYUNDAI
-KIA
-MAZDA
-NISSAN
+    AUDI
+    BMW
+    COROLLA
+    DODGE
+    FORD
+    HOLDEN
+    HYUNDAI
+    KIA
+    MAZDA
+    NISSAN
 
 Words not in Wordfind:
 
