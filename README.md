@@ -16,6 +16,7 @@ See supplied example code.
 Example Results:
 
 Wordfind:
+```
     CHGGCYETWP
     NYFZBDINDK
     IULEITMEOI
@@ -26,8 +27,10 @@ Wordfind:
     JLWOMQRQAU
     MAZDAEOAOT
     QPNTSRCIWK
+```
 
 Solution:
+```
     .H........
     NY.....NDK
     IU.....EOI
@@ -38,8 +41,10 @@ Solution:
     ..W...R...
     MAZDA.O...
     ......C...
+```
 
 Words in Wordfind:
+```
     AUDI
     BMW
     COROLLA
@@ -50,6 +55,7 @@ Words in Wordfind:
     KIA
     MAZDA
     NISSAN
+```
 
 Words not in Wordfind:
 
